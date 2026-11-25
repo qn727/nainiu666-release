@@ -1,7 +1,11 @@
 {
-  "latestVersion": "1.6.6",
+  "latestVersion": "1.6.7",
   "minVersion": "1.5.0",
-  "announcement": "1.6.6 已发布",
+  "announcement": "1.6.7 已发布",
   "downloadUrl": "https://github.com/qn727/nainiu666-release/tree/main/dist",
-  "blacklist": []
+  "blacklist": [],
+  "secure": {
+    "format": "nainiu1",
+    "data": "FUMFDx0QRUJgSAMdXl1ZDwgQEAdAV0dZS1kWFFtEHzhSQEREXV4QDE5DWEBcWwYUGg1TD1lcWFhcU1dbCw8dTFNVFAcYG19ZF9eAn9e/o9PW4ktCSVdSWUFDHQFWVmJfXhIIFkwJHRoZBgwZGUoYGl9HVQNRX18ZHw9eXF5aWFdfQxgbAQQBAEBVXlMPEgxBHQdTUxlAEAdZHVNEQUQQGk5DCwIIFl1aX14FTA0SbHBP"
+  }
 }
